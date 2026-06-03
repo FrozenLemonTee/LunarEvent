@@ -4,10 +4,10 @@ version = "0.1.0"
 
 import {
   "FrozenLemonTee/TerminalEvent@0.1.0",
-  "FrozenLemonTee/LunarTUI@0.0.2",
+  "FrozenLemonTee/LunarTUI@0.1.0",
 }
 
-readme = "README.mbt.md"
+readme = "README.md"
 
 repository = "https://github.com/FrozenLemonTee/LunarEvent"
 
