@@ -9,7 +9,7 @@ import {
 
 readme = "README.mbt.md"
 
-repository = ""
+repository = "https://github.com/FrozenLemonTee/LunarEvent"
 
 license = "Apache-2.0"
 
