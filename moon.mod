@@ -4,7 +4,7 @@ version = "0.1.0"
 
 import {
   "FrozenLemonTee/TerminalEvent@0.1.0",
-  "FrozenLemonTee/LunarTUI@0.0.1",
+  "FrozenLemonTee/LunarTUI@0.0.2",
 }
 
 readme = "README.mbt.md"
