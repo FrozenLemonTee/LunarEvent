@@ -1,0 +1,6 @@
+import {
+  "FrozenLemonTee/LunarEvent",
+  "FrozenLemonTee/LunarTUI/src/base",
+}
+
+supported_targets = "native"
