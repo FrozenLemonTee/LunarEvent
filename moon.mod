@@ -1,6 +1,6 @@
 name = "FrozenLemonTee/LunarEvent"
 
-version = "0.1.0"
+version = "0.1.1"
 
 import {
   "FrozenLemonTee/TerminalEvent@0.1.0",
