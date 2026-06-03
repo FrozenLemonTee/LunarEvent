@@ -1,0 +1,5 @@
+import {
+  "FrozenLemonTee/TerminalEvent/moonbit/lte_native",
+}
+
+supported_targets = "native"
